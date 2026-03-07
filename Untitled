@@ -1,0 +1,1 @@
+python -m venv medsafe_env && source medsafe_env/bin/activate

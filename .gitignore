@@ -1,0 +1,13 @@
+medsafe_env/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+dist/
+build/
+*.egg-info/
